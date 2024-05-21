@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ReactJSHelloWorld/static/css/main.f855e6bc.css",
+    "main.js": "/ReactJSHelloWorld/static/js/main.69eb981f.js",
+    "static/js/453.57fefa28.chunk.js": "/ReactJSHelloWorld/static/js/453.57fefa28.chunk.js",
+    "static/media/logo.svg": "/ReactJSHelloWorld/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ReactJSHelloWorld/index.html",
+    "main.f855e6bc.css.map": "/ReactJSHelloWorld/static/css/main.f855e6bc.css.map",
+    "main.69eb981f.js.map": "/ReactJSHelloWorld/static/js/main.69eb981f.js.map",
+    "453.57fefa28.chunk.js.map": "/ReactJSHelloWorld/static/js/453.57fefa28.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.69eb981f.js"
+  ]
+}
